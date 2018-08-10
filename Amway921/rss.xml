@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<channel> 
+	<title>Amway921</title>  
+	<link>http://www.youtube.com/user/Amway921WOT</link>  
+	<description>Архив новостей</description>  
+	<language>ru</language> 
+	<pubDate>00:00 01.01.2015</pubDate>
+	<ttl>60</ttl>
+	
+	<image>
+		<url>http://www.youtube.com/user/Amway921WOT</url>
+		<title>Страница логина</title>
+		<link>http://www.youtube.com/user/Amway921WOT</link>
+	</image> 
+	
+	<item>   
+	<title>Amway921</title>   
+	<link>http://www.youtube.com/user/Amway921WOT</link>   
+	<description><![CDATA[<div> Amway921: на канале вы научитесь играть на всех танках игры, правильно выбирать ветки для прокачки, а так же получите знания, как экономно расходовать золото и серебро! Новые видео выходят каждый день! </div> ]]></description> 
+	</item>
+</channel>

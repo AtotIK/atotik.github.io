@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<channel> 
+	<title>WOTFAN</title>  
+	<link>http://www.youtube.com/user/VspishkaArm</link>  
+	<description>Архив новостей</description>  
+	<language>ru</language> 
+	<pubDate>0:46 16.12.2014</pubDate>
+	<ttl>60</ttl>
+
+	<image>
+		<url>http://www.youtube.com/user/VspishkaArm</url>
+		<title>Страница логина</title>
+		<link>http://www.youtube.com/user/VspishkaArm</link>
+	</image>
+
+	<item>
+		<title>WoT Fan</title>
+		<link>http://www.youtube.com/user/VspishkaArm</link>
+		<description><![CDATA[<div> Канал от «Vspishka»: олдскульный канал по игре World of Tanks. Смотри обучающие VOD'ы, гайды по танкам и картам! </div> ]]></description>
+	</item>
+</channel>
