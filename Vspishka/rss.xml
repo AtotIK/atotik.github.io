@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
-<channel> 
-	<title>WOTFAN</title>  
-	<link>http://www.youtube.com/user/VspishkaArm</link>  
-	<description>Архив новостей</description>  
-	<language>ru</language> 
-	<pubDate>0:46 16.12.2014</pubDate>
+<channel>
+	<title>Vspishka</title>
+	<link>http://www.youtube.com/user/VspishkaArm</link>
+	<description>Архив новостей</description>
+	<language>ru</language>
+	<pubDate>0:00 01.12.2014</pubDate>
 	<ttl>60</ttl>
 
 	<image>
@@ -14,8 +14,14 @@
 	</image>
 
 	<item>
-		<title>WoT Fan</title>
+		<title>Битва блогеров</title>
+		<link>https://ru.wargaming.net/shop/redeem/?bonus_mode=VSPISHKAGOLOS</link>
+		<description><![CDATA[<div> Помоги Vspishka пройти отбор в «Битву блогеров — 2020»! Переходи по ссылке, активируй промокод и выполняй боевую задачу, которая поможет Vspishka попасть в ТОП блогеров! Всё зависит от тебя! </div>]]></description>
+	</item>
+
+	<item>
+		<title>Vspishka</title>
 		<link>http://www.youtube.com/user/VspishkaArm</link>
-		<description><![CDATA[<div> Канал от «Vspishka»: олдскульный канал по игре World of Tanks. Смотри обучающие VOD'ы, гайды по танкам и картам! </div> ]]></description>
+		<description><![CDATA[<div> Канал от «Vspishka»: олдскульный канал по игре World of Tanks. Смотри обучающие VOD'ы, гайды по танкам и картам! </div>]]></description>
 	</item>
 </channel>
